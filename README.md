@@ -1,7 +1,7 @@
 # 📚 BrownLLM Notebook README
 
 ## Overview
-This Jupyter notebook, authored by Ant Greene, is part of the "BrownLLM" repository. It focuses on constructing a sophisticated conversational model using the Brown Corpus, a foundational dataset in natural language processing.
+This Jupyter notebook, authored by me, Ant Greene, with the assistance of ChatGPT 😅... is part of the "BrownLLM" repository. It focuses on constructing a sophisticated conversational model using the Brown Corpus, a foundational dataset in natural language processing.
 
 ## Objective 🎯
 Develop a robust conversational model leveraging the diverse range of text data in the Brown Corpus, demonstrating its versatility in NLP applications.
