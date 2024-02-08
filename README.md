@@ -24,6 +24,4 @@ Libraries and dependencies are specified at the beginning of the notebook.
 
 ## License 📄
 Released under the GNU General Public License v3.
-
-## Author 👨‍💻
-Ant Greene
+______________________________________
